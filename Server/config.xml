@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ConfigurationSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MinValue>0</MinValue>
+  <MaxValue>100</MaxValue>
+  <MulticastPort>2222</MulticastPort>
+  <MulticastGroup>239.0.0.222</MulticastGroup>
+</ConfigurationSet>
